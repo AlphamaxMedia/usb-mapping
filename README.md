@@ -13,3 +13,6 @@ and write it to disk.
 The pickled dictionary is meant to be used with the usb-pyromaniac 
 utility that performs mass firmware image burns, and helps the utility 
 notify the operator exactly which physical USB port has a fault.
+
+Check out usb-pyromaniac for the associated tool this was written
+to support
