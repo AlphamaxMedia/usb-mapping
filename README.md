@@ -15,4 +15,4 @@ utility that performs mass firmware image burns, and helps the utility
 notify the operator exactly which physical USB port has a fault.
 
 Check out usb-pyromaniac for the associated tool this was written
-to support
+to support.
